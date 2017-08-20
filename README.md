@@ -1,14 +1,14 @@
 # mano-robotica
-##PROYECTO FINAL -Arquitectura de Sistema de Elaboración de datos II- UNDAV
+## PROYECTO FINAL -Arquitectura de Sistema de Elaboración de datos II- UNDAV
 
 
-###OBJETIVO 
+### OBJETIVO 
 
 Presentar a través de un proyecto basado en Arduino, las temáticas que se brindaron a lo largo de la cursada, 
 logrando mediante la praxis que el alumnado ponga en práctica los conocimientos teóricos adquiridos durante el 
 trayecto del cuatrimestre. 
 
-###PRESENTACION  
+### PRESENTACION  
 
 El proyecto realizado por los alumnos se basa en un brazo robótico controlado esencialmente por: 
 
@@ -20,7 +20,7 @@ El proyecto realizado por los alumnos se basa en un brazo robótico controlado e
 
 Arduino  
 
-###MODO DE FUNCIONAMIENTO 
+### MODO DE FUNCIONAMIENTO 
 
 El modo de funcionamiento se basa en un guante que posee sensores flexibles, los cuales actúan como  una resistencia
 variable. Por esto último, se puede controlar la tensión que tiene cada uno, leyendo el valor analógico a través de
