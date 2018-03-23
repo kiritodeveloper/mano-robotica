@@ -106,6 +106,7 @@ void loop()
     Y1=Y1<<8;
     Y_out=Y0+Y1;
   }
+	
   //------------------Z----------------
   Wire.beginTransmission(ADXAddress); // Transmitimos..
   Wire.write(Register_Z0);
