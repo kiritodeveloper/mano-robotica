@@ -2,7 +2,6 @@
 //Variables
 
 //Variables dedo1
-
 int flexpin1=A0;
 Servo myservo1;
 int flexsum1=0;
